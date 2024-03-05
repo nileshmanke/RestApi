@@ -1,0 +1,49 @@
+[
+
+{
+    "name": "iphone",
+    "price":101,
+    "featured":"true",
+    "company":"apple"
+},
+
+{
+    "name": "watch",
+    "price":180,
+    "featured":"false",
+    "company":"mi"
+},
+
+{
+    "name": "mi",
+    "price":170,
+    "featured":"false",
+    "company":"xiomi"
+},
+
+{
+    "name": "oneplue",
+    "price":150,
+    "featured":"true",
+    "company":"apple"
+},
+
+{
+    "name": "micromax",
+    "price":117,
+    "featured":"true",
+    "company":"apple"
+},
+
+
+{
+    "name": "iphone14",
+    "price":150,
+    "featured":"false",
+    "company":"apple"
+}
+
+
+
+
+]
