@@ -13,8 +13,8 @@ const getAllProducts= async (req,res)=>{
 const getAllProductsTesting= async (req,res)=>{
 
 
-    let page=Number(req.query.page) || 2;
-    let limit=Number(req.query.limit)|| 4;
+    let page=Number(req.query.page) || 1;
+    let limit=Number(req.query.limit)|| 6;
 let skip = (page - 1) * limit;
 
 
