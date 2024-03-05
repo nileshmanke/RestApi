@@ -4,35 +4,44 @@
     "name": "iphone",
     "price":101,
     "featured":"true",
-    "company":"apple"
+    "company":"apple",
+    "url":"https://tse4.mm.bing.net/th?id=OIP.w3Y2s2jSeuJHO4a1X8Y7_wHaEq&pid=Api&P=0&h=180"
 },
 
 {
     "name": "watch",
     "price":180,
     "featured":"false",
-    "company":"mi"
+    "company":"mi",
+    "url":"https://tse4.mm.bing.net/th?id=OIP.kreybSArJ-U3YDkV450HygHaE8&pid=Api&P=0&h=180"
+
 },
 
 {
     "name": "mi",
     "price":170,
     "featured":"false",
-    "company":"xiomi"
+    "company":"xiomi",
+    "url":"https://tse1.mm.bing.net/th?id=OIP.tbGCiwkUVdo25iTF1UAVBAHaEK&pid=Api&P=0&h=180"
+
 },
 
 {
     "name": "oneplue",
     "price":150,
     "featured":"true",
-    "company":"apple"
+    "company":"apple",
+    "url":"https://tse4.mm.bing.net/th?id=OIP.Y5ZlZaC3uVj7byqgbMCcPAHaEK&pid=Api&P=0&h=180"
+
 },
 
 {
     "name": "micromax",
     "price":117,
     "featured":"true",
-    "company":"apple"
+    "company":"apple",
+    "url":"https://tse2.mm.bing.net/th?id=OIP.cdscJbEYxaOlWgThFQyqYgHaF0&pid=Api&P=0&h=180"
+
 },
 
 
@@ -40,7 +49,9 @@
     "name": "iphone14",
     "price":150,
     "featured":"false",
-    "company":"apple"
+    "company":"apple",
+    "url":"https://tse3.mm.bing.net/th?id=OIP.30k6iCEYz3KHI7LlnFwF7AHaFj&pid=Api&P=0&h=180"
+
 }
 
 

@@ -11,7 +11,7 @@ app.use(cors());
 
 app.get("/", (res,req)=>{
     
-    req.send("hi i am live");
+    req.send("nilesh manke perseonal rest API Live........");
 
 })
 

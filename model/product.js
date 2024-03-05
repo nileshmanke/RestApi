@@ -25,6 +25,12 @@ rating:{
     default:4.9,
 },
 
+url:{
+    type: String,
+    required:true,
+    
+},
+
 createdAt:{
     type :Date,
     default:Date.now(),
